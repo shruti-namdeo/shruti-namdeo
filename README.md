@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shruti-namdeo
 - 👀 I’m interested in iOS and Android Appplication development
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Azure Cloud
 
 <!---
 shruti-namdeo/shruti-namdeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
